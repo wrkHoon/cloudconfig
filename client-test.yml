@@ -1,5 +1,5 @@
 spring:
   datasource:
-    uri: myEnvironment
-    username: root
-    password: password
+    uri: "{cipher}2f8c03ca975b634350d97e7a4c293e900102422643db4a41fda5b61f2480a184"
+    username: "{cipher}36dbc040a7bb58d139b039ad3e82fc7a7274be8c46fa65cc98756df77c4bb040"
+    password: "{cipher}1f2bd3c6fc49007380a5b475207a2b4358c1893a9b3261ddc65ae8aa5eca535e"
